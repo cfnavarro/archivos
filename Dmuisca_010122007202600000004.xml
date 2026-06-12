@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1220.xsd">
+<Cab>
+<Ano>2026</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1220</Formato>
+<Version>7</Version>
+<NumEnvio>4</NumEnvio>
+<FecEnvio>2026-06-12T09:34:00</FecEnvio>
+<FecInicial>2020-01-01</FecInicial>
+<FecFinal>2020-12-31</FecFinal>
+<ValorTotal>31</ValorTotal>
+<CantReg>1</CantReg>
+</Cab>
+<ppal tdoc="31" ndoc="41441923" dv="4" pap="PEÑA" sap="DE NAVARRO" pnom="NIDIA" snom="HELENA" ret="54000000" tot="540000">
+<sec tdoc="31" ndoc="31243000" dv="6" apl1="PANTOJA" apl2="PONCE" nom1="MARIA" nom2="INES" vbret="54000000" vret="540000" cpto="11" dpto="11" ciud="001"/>
+</ppal>
+</mas>

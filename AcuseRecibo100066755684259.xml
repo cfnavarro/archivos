@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<doc cf="10006" id="100066755684259" n_r="1" vf="6"><dsig:Signature Id="Signature001" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:SignedInfo><dsig:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><dsig:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><dsig:Reference URI=""><dsig:Transforms><dsig:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><dsig:DigestValue>06vhOSlV/jCk6vwf3C3XPoRO3yk=</dsig:DigestValue></dsig:Reference><dsig:Reference URI="#KeyInfo001"><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><dsig:DigestValue>DeVgcQvJFwATwEFbz/Y5tD+5xW0=</dsig:DigestValue></dsig:Reference></dsig:SignedInfo><dsig:SignatureValue>Y13t/1M8y88P2Y4X2r2LmGBa9D8dMZtPnWd87RyObtUN8avdPHjNu/NXGBfl6tDH6W2hsSiTbcuR701DPcILhVfN/pgjA3Q+nqkXlnW9hybZpTzam7xmvoc5+v9ucb0gKjHmL0Wi5tcHaLm1jNcB/Vwt0uLhNRyInkElpgrFqRrot5KUYp7TGIQiFP2zUkOFzfbgonYBWBxDCa31dYUXkBhI+lfhdC02Kv0RwV+N6x4J95ovtV9VdUwdO8pKfw4Fw0Fc3X68AmEQokfRrOCRgn2sJo+RrAZadN4fwuxgF5QImsas8Z13U8483/0rsn18mRP8iOmcXrP+mcCF9UnoSg==</dsig:SignatureValue><dsig:KeyInfo Id="KeyInfo001"><dsig:X509Data><dsig:X509Certificate>MIIDYTCCAkmgAwIBAgIUMoPBvQ3KODNZ6qkc283Idqm0akswDQYJKoZIhvcNAQELBQAwNTELMAkGA1UEBhMCQ08xDTALBgNVBAoMBERJQU4xFzAVBgNVBAMMDkRJQU4tQ0EtTVVJU0NBMB4XDTI1MTEyOTE4MzQ0N1oXDTM1MTEyNzE4MzQ0N1owNzELMAkGA1UEBhMCQ08xDTALBgNVBAoMBERJQU4xGTAXBgNVBAMMEFNlcnZpY2lvcyBNVUlTQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcZ5bWmOiwsSI5fK15yo9t6bUfVPsMP/hxtrjAjQrLfQKUFRNWEirs8FgBTTmEhlwZSYbPrZURJX/N1IJ2GKjiHv3qe1QT1jlbjIGBLhOZfDTCDwjYSE8Q8zHvOCmO8aeXzZd60ElOe+Km2W8ZiddAoCwKhvbzgTYdloiU+soYKt4p2737p15Kjn2ZZu/JznI2wWmFRKZqScBtN0bmeXJgkIzUbcGTHugtScoMtKKNZv8kadZCeGCUdmY/AP4ytHu9i4sg1peAbuIgiXJ50GyMBpRXEoS3uyecCi0AHo0pXjpFAcZsVMddIDQ9tEXnSdNwXKJOJQYIJg5bmsx6hPX9AgMBAAGjZzBlMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAjAdBgNVHQ4EFgQUNJ2miOzPTZlua+XZrb/wnVocGt0wHwYDVR0jBBgwFoAUdhkYzAunSmXJX9BBTigBFqSwKO0wDQYJKoZIhvcNAQELBQADggEBAIEExJdPE4r5906yvym42w/8oYxEByoc0QNcutjhiwHoQEcv4BSIc7H7qsJZzLp1i/g6ASidiw4Nweyp9qtUViHKBKOZf4NeObhHVu/0gJEr+7ZKaG6WjjdWbZYRPQasMHGrRqreW/gudNq18RMGgkhE+BzaRes2FwbV7w2nB1mZ2X6lfqtQMOPLri3eNIqHW2+/ACH8Zzv6SA23n9mCX7HllZQRoGqrJWJ1m/pKqDps1dK4SIGHLJ/ZcxmYR+Cs9UtyWh7Wez/Ivm43USgdEUvLSBOJkID7UxiPRy/iT/ejFgkzLO9ezrf1ODINnYohEDLld81hEYlqeYVw7kI0Mzk=</dsig:X509Certificate></dsig:X509Data></dsig:KeyInfo><dsig:Object><dsig:SignatureProperties><dsig:SignatureProperty Id="TimestampId" Target="Signature001"><wsu:Timestamp xmlns:wsu="http://schemas.xmlsoap.org/ws/2002/07/utility"><wsu:Created>2026-06-12T09:38:22</wsu:Created></wsu:Timestamp></dsig:SignatureProperty></dsig:SignatureProperties></dsig:Object></dsig:Signature>
+  <gr id="1">
+    <oc id="1">
+      <cs id="2" v="1"/>
+      <cs id="4" v="100066755684259"/>
+      <cs id="24" v="28289499"/>
+      <cs id="25" v="10910094"/>
+      <cs id="26" v="41441923"/>
+      <cs id="27" v="PEÑA"/>
+      <cs id="28" v="DE NAVARRO"/>
+      <cs id="29" v="NIDIA"/>
+      <cs id="30" v="HELENA"/>
+      <cs id="33" v=""/>
+      <cs id="34" v="15301247"/>
+      <cs id="35" v="PEÑA DE NAVARRO NIDIA HELENA"/>
+      <cs id="37" v=""/>
+      <cs id="38" v="1"/>
+      <cs id="39" v="DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES"/>
+      <cs id="40" v="1220"/>
+      <cs id="41" v="7"/>
+      <cs id="42" v="1"/>
+      <cs id="43" v="2020"/>
+      <cs id="44" v="1"/>
+      <cs id="45" v="14310471"/>
+      <cs id="46" v="Dmuisca_010122007202600000004.xml"/>
+      <cs id="47" v="1"/>
+      <cs id="48" v="1"/>
+      <cs id="49" v=""/>
+      <cs id="52" v=""/>
+      <cs id="60" v=""/>
+      <cs id="61" v=""/>
+      <cs id="984" v=""/>
+      <cs id="985" v=""/>
+      <cs id="997" v="20260612093746"/>
+    </oc>
+  </gr>
+  <gr id="2">
+    <oc id="1">
+      <cs id="4" v=""/>
+      <cc id="50">
+        <it id="1" v="1"/>
+      </cc>
+      <cc id="51">
+        <it id="1" v="5048473"/>
+      </cc>
+      <cc id="53"/>
+      <cc id="54"/>
+    </oc>
+  </gr>
+</doc>

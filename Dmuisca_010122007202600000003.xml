@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1220.xsd">
+<Cab>
+<Ano>2026</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1220</Formato>
+<Version>7</Version>
+<NumEnvio>3</NumEnvio>
+<FecEnvio>2026-06-12T09:15:06</FecEnvio>
+<FecInicial>2023-01-01</FecInicial>
+<FecFinal>2023-12-31</FecFinal>
+<ValorTotal>31</ValorTotal>
+<CantReg>1</CantReg>
+</Cab>
+<ppal tdoc="31" ndoc="41441923" dv="4" pap="PEÑA" sap="DE NAVARRO" pnom="NIDIA" snom="HELENA" ret="3478088" tot="190000">
+<sec tdoc="31" ndoc="800198281" dv="5" raz="FONDO DE PENSIONES PROTECCION" vbret="1693318" vret="118532" cpto="3" dpto="05" ciud="001"/>
+<sec tdoc="31" ndoc="890903938" dv="8" raz="BANCOLOMBIA S.A." vbret="1784770" vret="71391" cpto="3" dpto="05" ciud="001"/>
+</ppal>
+</mas>
