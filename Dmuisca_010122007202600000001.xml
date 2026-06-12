@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1220.xsd">
+<Cab>
+<Ano>2026</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1220</Formato>
+<Version>7</Version>
+<NumEnvio>1</NumEnvio>
+<FecEnvio>2026-06-11T21:04:48</FecEnvio>
+<FecInicial>2024-01-01</FecInicial>
+<FecFinal>2024-12-31</FecFinal>
+<ValorTotal>31</ValorTotal>
+<CantReg>1</CantReg>
+</Cab>
+<ppal tdoc="31" ndoc="41441923" dv="4" pap="PEÑA" sap="DE NAVARRO" pnom="NIDIA" snom="HELENA" ret="340951802" tot="3527000">
+<sec tdoc="31" ndoc="21069048" dv="7" apl1="ZAFRA" apl2="TURBAY" nom1="WILMA" vbret="339000000" vret="3390000" cpto="11" dpto="11" ciud="001"/>
+<sec tdoc="31" ndoc="800198281" dv="5" raz="FONDO DE PENSIONES PROTECCION" vbret="1951802" vret="136626" cpto="3" dpto="11" ciud="001"/>
+</ppal>
+</mas>
